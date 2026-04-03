@@ -6,5 +6,10 @@
     "psr-4": {
       "App\\": "www/"
     }
-  }
+  },
+  "repositories": [{
+    "name": "packagist",
+    "type": "composer",
+    "url": "https://packagist.jp"
+  }]
 }
